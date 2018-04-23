@@ -1,0 +1,19 @@
+.top-styled{
+	background: aqua;
+	position: center;
+}
+.form-Styled{
+	padding-left: 40%;
+	padding-right: 40%;
+	position: center;
+}
+
+form{
+	font-family: "Comic Sans MS";
+	border: blueviolet;
+}
+
+.bottom-styled{
+	background: cyan;
+	position: center;
+}
